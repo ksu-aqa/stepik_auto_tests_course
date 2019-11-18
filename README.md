@@ -1,2 +1,2 @@
 # stepik_auto_tests_course
-test description
+This is a repository for some tasks of test automation course on the Stepik.
